@@ -1,0 +1,189 @@
+/* .lets_talk_btn{
+    background-color: #101010;
+    border: 1px solid hsl(67, 87%, 61%);
+    margin-left: 40rem;
+    align-items: right;
+    height: 45px;
+    width: 100px;
+}
+.lets_talk_btn:hover{
+    background-color: hwb(67 27% 5%);
+    color: black;
+} */
+
+.status {
+    border: 1px solid green;
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+    margin-right: 25px;
+}
+
+.status:hover {
+    background-color: green;
+    border-radius: 5px;
+}
+
+.home_section {
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+.profile_img {
+    width: 500px;
+    height: auto;
+}
+
+.Profile_img_section {
+    border-radius: 50%;
+    width: 500px;
+    height: auto;
+}
+
+.profile_img {
+    width: 500px;
+    height: 500px;
+    background: url('/image/profile.jpg');
+    margin: auto;
+    border-radius: 50%;
+    margin: 80px;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.profile_img:hover {
+    box-shadow: 10px 10px 50px white;
+    transition: .5s;
+}
+
+.profile_text {
+    margin: auto;
+    text-align: left;
+}
+
+.about_header {
+    font-size: 80px;
+}
+
+.descroption {
+    font-size: 18px;
+}
+
+.D_img {
+    width: 360px;
+    margin: 15px;
+    box-shadow: 10px 10px 50px gray;
+}
+
+/* featured work  */
+body {
+    /* background-color: #111; */
+    /* color: #fff; */
+    font-family: Arial, sans-serif;
+}
+
+.lead {
+    color: #383838;
+}
+
+.list-group-item {
+    background-color: #161616;
+    border: none;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #444;
+}
+
+.list-group-item-warning {
+    background-color: #444;
+    color: #f0ad4e;
+}
+
+.list-group-item-warning:hover {
+    background-color: #555;
+}
+
+.badge-primary {
+    background-color: #333;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #333;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #444;
+}
+
+.featured_bg {
+    background-color: #198754;
+}
+
+/* slider  */
+.moment_img {
+    box-shadow: 10px 10px 20px rgb(90, 90, 90);
+    border-radius: 5px;
+}
+
+/* projects section  */
+.project_section {
+    background-color: #222222;
+    color: #198754;
+}
+
+.ex a {
+    text-decoration: none;
+    color: #198754;
+}
+
+.js_dev {
+    color: rgb(175, 175, 175);
+}
+
+/* social media  */
+.social_media a {
+    color: white;
+    font-size: 40px;
+    /* margin-left: 20px; */
+}
+
+.whatsapp {
+    margin-left: 20px;
+}
+
+.instagram {
+    margin-left: 20px;
+}
+
+.linkedin {
+    margin-left: 20px;
+}
+
+.facebook:hover {
+    color: #0866FF;
+    transition: .5s;
+}
+
+.whatsapp:hover {
+    color: #26C943;
+    transition: .5s;
+}
+
+.instagram:hover {
+    color: #FD00E0;
+    transition: .5s;
+}
+
+.linkedin:hover {
+    color: #0A63BC;
+    transition: .5s;
+}
+
+/* footer  */
+.copyright h3{
+    color: #161616;
+}
